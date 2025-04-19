@@ -1,4 +1,10 @@
-# GCP data engineering: NYC taxi rides
+# 🚖 From Street to SQL: End-to-End NYC Taxi Data Stack
+
+This project is a complete, cloud-ready data engineering pipeline designed to ingest, transform, and analyze NYC taxi trip data using modern tools like Airflow, dbt, Terraform, and Google Cloud Platform (GCP).
+
+## 📊 Pipeline Overview
+
+This end-to-end pipeline simulates a real-world data stack, from raw CSV files to clean, analytics-ready tables in a cloud data warehouse.
 
 Data pipeline using cloud-based tools to ingest, transform, and serve taxi trip data from 
 the New York City [government website](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page#).
